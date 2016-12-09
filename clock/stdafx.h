@@ -5,7 +5,7 @@
 
 #pragma once
 #define SFML_NO_DEPRECATED_WARNINGS
-#define _CRT_SECURE_NO_WARNINGS
+//#define _CRT_SECURE_NO_WARNINGS
 #include "targetver.h"
 
 #include <stdio.h>
